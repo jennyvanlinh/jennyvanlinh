@@ -8,6 +8,8 @@ aside from that, my other hobbies include:
 - reading manga and webtoons
 - watching movies 
 
+feel free to reach out to me via [linkedin](https://www.linkedin.com/in/jennyhvanlinh/). i'm open to data viz project :D 
+
 <!---
 jennyvanlinh/jennyvanlinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
