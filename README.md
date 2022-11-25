@@ -1,6 +1,6 @@
 hello, i'm jenny. 
 
-i'm currently a final year university student studying business information systems, with an interested in data visualization. i'm interested in that field because i like to create visualization using tableau and explore my creativeness. 
+i'm a final year university student studying business information systems, with an interest in data visualization. i'm interested in that field because i like to create visualizations using tableau and explore my creativity.
 
 aside from that, my other hobbies include: 
 - creating illustrations on canva
@@ -8,7 +8,7 @@ aside from that, my other hobbies include:
 - reading manga and webtoons
 - watching movies 
 
-feel free to reach out to me via [linkedin](https://www.linkedin.com/in/jennyhvanlinh/). i'm open to data viz project :D 
+feel free to reach out to me via [linkedin](https://www.linkedin.com/in/jennyhvanlinh/). i'm open to data viz projects :D 
 
 <!---
 jennyvanlinh/jennyvanlinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
